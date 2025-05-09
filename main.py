@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import filedialog, messagebox
-from grades_processor import process_grades
+from backend import process_grades
 import csv
 import matplotlib.pyplot as plt
 from tkinter import ttk

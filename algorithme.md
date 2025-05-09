@@ -1,5 +1,57 @@
 # Documentation
 
+# Application de Gestion des Notes Étudiantes
+
+Ce projet est une application Python conçue pour traiter les notes des étudiants. Elle offre une interface conviviale permettant de sélectionner un fichier de notes et de générer des fichiers de sortie contenant le traitement et l'analyse des données.
+
+## Structure du Projet
+
+```
+application-notes-etudiantes
+├── main.py               # Point d'entrée de l'application
+├── ui.py                 # Code de l'interface utilisateur
+├── backend.py            # Logique pour le traitement des données de notes
+├── utils
+│   └── file_utils.py     # Fonctions utilitaires pour les opérations sur les fichiers
+├── requirements.txt      # Dépendances du projet
+└── README.md             # Documentation du projet
+```
+
+## Installation
+
+1. **Cloner le dépôt :**
+   ```bash
+   git clone https://github.com/bkablam11/app-student-grades.git
+   cd app-student-grades
+   ```
+
+2. **Créer un environnement virtuel (optionnel mais recommandé) :**
+   ```bash
+   python -m venv env
+   source env/bin/activate        # Sur Linux/Mac
+   env\Scripts\activate           # Sur Windows
+   ```
+
+3. **Installer les dépendances :**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Vérifier les dépendances installées :**
+   Les bibliothèques suivantes doivent être installées :
+   - `tk` : Pour l'interface graphique.
+   - `pandas` : Pour la manipulation des données.
+   - `statistics` : Pour les calculs statistiques.
+   - `pyinstaller` : Pour créer un exécutable.
+   - `matplotlib` : Pour générer des graphiques.
+
+## Utilisation
+
+1. **Lancer l'application :**
+   ```bash
+   python main.py
+   ```
+
 ## Fonction `lire_coefficients`
 
 ### Description
@@ -162,6 +214,10 @@ Affiche des graphiques basés sur les données du fichier `analyse.csv`.
 ### Lancement de l'application
 Pour lancer l'application, double-cliquez sur le fichier main qui se trouve dans le dossier dist.
 ![Sélection du fichier des coefficients](./images/0.bmp)
+
+lien de telechargement du fichier dist [Télécharger le fichier](https://drive.google.com/file/d/1wJ3az16zHqBd93_O1mS66WPo17L2jl64/view?usp=sharing)
+
+![Sélection du fichier des coefficients](./images/14.png)
 
 ### 1. **Sélection des fichiers**
 L'utilisateur clique sur le bouton **"Sélectionner les fichiers de notes et de coefficients"**. Deux boîtes de dialogue s'ouvrent pour sélectionner les fichiers nécessaires.
