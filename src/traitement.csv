@@ -1,0 +1,52 @@
+ID_Etudiant,Nom,Prenom,Apprentissage_Automatique_Note,Apprentissage_Automatique_Rang,Statistiques_Avancees_Note,Statistiques_Avancees_Rang,Bases_Donnees_Avancees_Note,Bases_Donnees_Avancees_Rang,Technologies_Big_Data_Note,Technologies_Big_Data_Rang,Visualisation_Donnees_Note,Visualisation_Donnees_Rang,Programmation_R_Python_Note,Programmation_R_Python_Rang,Traitement_Langage_Naturel_Note,Traitement_Langage_Naturel_Rang,Projet_Data_Science_Note,Projet_Data_Science_Rang,Moyenne_Generale,Rang_General
+1,Koné,Adama,14.50,14e ex,12.00,30e ex,15.50,10e ex,11.00,34e ex,16.00,7e ex,13.50,20e ex,10.00,37e ex,15.00,14e ex,13.47,22e
+2,Goli,Lucie,11.00,34e ex,13.50,21e ex,10.00,42e ex,9.50,43e ex,12.50,28e ex,11.50,32e ex,14.00,15e ex,12.00,30e ex,11.65,33e
+3,Kouamé,Koffi,8.50,46e ex,9.00,46e ex,11.50,33e ex,12.00,28e ex,10.00,42e ex,9.50,43e ex,8.00,46e ex,10.50,38e ex,9.88,42e ex
+4,Lou Nan,Irié,16.00,6e ex,15.50,9e ex,14.00,16e ex,13.50,20e ex,17.00,4e ex,16.50,6e ex,15.00,9e ex,17.50,4e,15.70,8e
+5,Diarra,Moussa,12.50,27e ex,11.00,36e ex,9.00,47e ex,14.00,16e ex,11.50,34e ex,12.00,29e ex,13.50,19e ex,11.00,36e ex,11.78,32e
+6,Mireille,Ekra,13.00,24e ex,14.00,17e ex,16.00,6e ex,15.00,12e ex,14.50,17e ex,15.50,10e ex,12.00,26e ex,13.00,26e ex,14.10,18e
+7,N'Guessan,Yao,9.00,44e ex,10.50,39e ex,8.00,50e,7.50,49e ex,13.00,24e ex,10.00,40e ex,11.00,31e ex,9.50,43e ex,9.57,44e
+8,Bamba,Mariam,17.50,1er ex,16.00,5e ex,18.00,1er,17.00,3e ex,15.50,11e ex,17.00,4e ex,16.50,4e,18.00,2e ex,17.05,3e
+9,Michel,Bleu,10.00,39e ex,12.50,27e ex,13.00,23e ex,10.50,38e ex,9.00,48e ex,11.00,35e ex,9.50,40e ex,12.50,28e ex,11.23,35e
+10,Sangaré,Bintou,15.00,11e ex,14.50,15e ex,12.00,29e ex,16.00,6e ex,18.00,1er ex,14.00,17e ex,17.00,1er ex,15.50,11e ex,15.03,12e ex
+11,Leonard,Zadi,7.00,50e,8.50,49e,10.00,42e ex,9.00,45e ex,11.00,37e ex,8.00,48e ex,7.50,48e,8.00,48e ex,8.42,49e
+12,Konan,Akissi,14.00,17e ex,13.00,24e ex,11.50,33e ex,12.50,26e ex,14.00,19e ex,13.00,22e ex,12.50,24e ex,14.50,18e ex,13.23,25e
+13,Doumbia,Seydou,11.50,32e ex,10.00,41e ex,14.00,16e ex,11.00,34e ex,10.50,40e ex,12.50,26e ex,10.00,37e ex,11.50,33e ex,11.40,34e
+14,Koffi,Amoin,16.50,5e,17.00,2e,15.00,12e ex,16.50,5e,16.00,7e ex,15.00,12e ex,14.00,15e ex,16.00,9e ex,15.95,7e
+15,Attemené,Zoro,9.50,42e ex,11.50,34e ex,12.50,27e ex,10.00,40e ex,12.00,31e ex,10.50,38e ex,11.50,29e ex,10.00,41e ex,10.72,38e
+16,Pierre,Blé,13.50,21e ex,12.00,30e ex,13.50,21e ex,14.00,16e ex,13.00,24e ex,14.50,15e ex,13.00,22e ex,13.50,24e ex,13.38,23e
+17,Zran,Louise,10.50,37e ex,9.50,44e ex,11.00,36e ex,8.00,47e ex,10.00,42e ex,9.00,45e ex,8.50,45e,9.00,45e ex,9.43,45e
+18,Diomandé,Assita,15.50,9e ex,16.50,3e ex,17.00,3e ex,15.50,10e ex,14.00,19e ex,16.00,8e ex,15.50,7e ex,17.00,5e ex,16.03,6e
+19,Kassi,Kouadio,12.00,29e ex,13.50,21e ex,10.50,40e ex,13.00,23e ex,12.50,28e ex,11.50,32e ex,11.00,31e ex,12.00,30e ex,12.13,29e
+20,Agnimel,Lasme,14.00,17e ex,15.00,11e ex,14.50,15e,12.00,28e ex,15.00,13e ex,13.50,20e ex,14.50,12e ex,15.00,14e ex,14.15,17e
+21,Fofana,Siaka,8.00,48e ex,7.50,50e,9.50,46e,10.00,40e ex,8.00,50e,7.00,50e,6.50,50e,7.50,50e,8.02,50e
+22,Irene,Ballo,17.00,3e ex,15.00,11e ex,16.00,6e ex,17.50,2e,17.00,4e ex,18.00,1er,16.00,5e ex,16.50,7e ex,16.62,4e
+23,Jerome,Gbalet,11.00,34e ex,12.00,30e ex,12.00,29e ex,11.50,33e,11.00,37e ex,10.00,40e ex,10.50,34e ex,11.00,36e ex,11.17,36e
+24,Gildas,Bilé,13.00,24e ex,14.50,15e ex,13.00,23e ex,14.00,16e ex,13.50,23e,12.50,26e ex,13.00,22e ex,14.00,21e ex,13.52,21e
+25,Simon,Karaki,10.00,39e ex,11.00,36e ex,9.00,47e ex,12.00,28e ex,10.00,42e ex,11.50,32e ex,9.00,42e ex,10.50,38e ex,10.55,39e
+26,Meité,Karidja,16.00,6e ex,14.00,17e ex,15.50,10e ex,16.00,6e ex,16.50,6e,17.00,4e ex,15.00,9e ex,15.00,14e ex,15.55,9e
+27,Bi Tra,Vanié,9.50,42e ex,10.00,41e ex,11.00,36e ex,9.50,43e ex,11.50,34e ex,10.00,40e ex,10.00,37e ex,9.00,45e ex,9.88,42e ex
+28,Kouassi,Koffi,15.00,11e ex,16.00,5e ex,14.00,16e ex,15.00,12e ex,14.00,19e ex,15.50,10e ex,14.50,12e ex,16.50,7e ex,15.28,10e
+29,Kanté,Souleymane,12.50,27e ex,11.50,34e ex,13.00,23e ex,12.00,28e ex,12.00,31e ex,13.00,22e ex,12.00,26e ex,12.50,28e ex,12.32,28e
+30,Konaté,Assetou,14.50,14e ex,13.50,21e ex,12.50,27e ex,14.50,14e ex,15.00,13e ex,14.00,17e ex,13.50,19e ex,14.00,21e ex,13.95,19e
+31,Barry,Tidiane,11.00,34e ex,10.50,39e ex,10.00,42e ex,11.00,34e ex,9.50,47e,10.50,38e ex,9.00,42e ex,10.00,41e ex,10.35,40e
+32,Samake,Awa,13.50,21e ex,15.00,11e ex,16.00,6e ex,13.00,23e ex,15.50,11e ex,14.50,15e ex,15.00,9e ex,15.50,11e ex,14.63,16e
+33,Tuo,Leslie,8.50,46e ex,9.00,46e ex,8.50,49e,8.00,47e ex,10.00,42e ex,9.00,45e ex,7.00,49e,8.50,47e,8.58,48e
+34,Dadié,Samuelle,17.00,3e ex,17.50,1er,17.50,2e,16.00,6e ex,18.00,1er ex,17.50,2e ex,17.00,1er ex,18.50,1er,17.38,1er
+35,Assi,Bertin,10.50,37e ex,12.00,30e ex,11.00,36e ex,10.00,40e ex,11.00,37e ex,11.00,35e ex,10.50,34e ex,11.50,33e ex,11.00,37e
+36,Sanogo,Maïmouna,15.50,9e ex,14.00,17e ex,13.00,23e ex,15.50,10e ex,14.50,17e ex,16.00,8e ex,14.00,15e ex,14.50,18e ex,14.73,15e
+37,Adia,Luc,12.00,29e ex,13.00,24e ex,14.00,16e ex,12.50,26e ex,13.00,24e ex,12.00,29e ex,12.50,24e ex,13.00,26e ex,12.70,26e
+38,Didot,Marc,14.00,17e ex,12.50,27e ex,15.00,12e ex,13.50,20e ex,12.00,31e ex,13.00,22e ex,11.50,29e ex,14.00,21e ex,13.35,24e
+39,Gbami,Serge,9.00,44e ex,10.00,41e ex,10.50,40e ex,9.00,45e ex,9.00,48e ex,8.50,47e,8.00,46e ex,9.50,43e ex,9.27,46e
+40,Augustine,Gouzilé,16.00,6e ex,16.50,3e ex,16.50,5e,17.00,3e ex,16.00,7e ex,16.50,6e ex,16.00,5e ex,17.00,5e ex,16.50,5e
+41,Sarako,Aline,13.00,24e ex,11.00,36e ex,12.00,29e ex,13.00,23e ex,12.50,28e ex,12.50,26e ex,11.00,31e ex,13.50,24e ex,12.42,27e
+42,Lucie,Hé,14.50,14e ex,15.50,9e ex,14.00,16e ex,14.00,16e ex,16.00,7e ex,15.00,12e ex,15.50,7e ex,16.00,9e ex,15.03,12e ex
+43,Kamagate,Gaoussou,10.00,39e ex,9.00,46e ex,11.50,33e ex,10.50,38e ex,10.00,42e ex,9.50,43e ex,9.50,40e ex,10.50,38e ex,10.03,41e
+44,Kilina,Estelle,15.00,11e ex,16.00,5e ex,15.00,12e ex,16.00,6e ex,15.00,13e ex,14.00,17e ex,14.00,15e ex,15.00,14e ex,15.10,11e
+45,Adeline,Selé,11.50,32e ex,12.50,27e ex,13.50,21e ex,11.00,34e ex,13.00,24e ex,11.00,35e ex,12.00,26e ex,11.50,33e ex,11.87,31e
+46,Laetitia,Yao,13.50,21e ex,14.00,17e ex,12.00,29e ex,13.50,20e ex,14.00,19e ex,13.00,22e ex,13.50,19e ex,14.50,18e ex,13.57,20e
+47,Albert,Amon,8.00,48e ex,9.50,44e ex,10.00,42e ex,7.50,49e ex,10.50,40e ex,8.00,48e ex,9.00,42e ex,8.00,48e ex,8.62,47e
+48,Basile,Tano,17.50,1er ex,16.00,5e ex,17.00,3e ex,18.00,1er,17.50,3e,17.50,2e ex,17.00,1er ex,18.00,2e ex,17.32,2e
+49,Fofana,Bintou,12.00,29e ex,13.00,24e ex,11.00,36e ex,12.00,28e ex,11.50,34e ex,12.00,29e ex,10.50,34e ex,12.00,30e ex,11.93,30e
+50,Jules,Gueu,14.00,17e ex,15.00,11e ex,16.00,6e ex,14.50,14e ex,15.00,13e ex,15.00,12e ex,14.50,12e ex,15.50,11e ex,14.92,14e
+,Classe,,12.67,-,12.83,-,12.92,-,12.70,-,13.14,-,12.77,-,12.23,-,13.08,-,12.81,-
